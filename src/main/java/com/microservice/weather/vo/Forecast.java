@@ -15,6 +15,7 @@ public class Forecast implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
+    //日期
     private String date;
     private String high;
     private String fengxiang;
