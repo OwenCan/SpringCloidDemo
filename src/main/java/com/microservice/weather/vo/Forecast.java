@@ -17,6 +17,7 @@ public class Forecast implements Serializable {
 
     //日期
     private String date;
+    //高度
     private String high;
     private String fengxiang;
     private String low;
